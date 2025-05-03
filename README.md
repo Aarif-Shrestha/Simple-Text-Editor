@@ -8,5 +8,4 @@ A basic Python text editor built using Tkinter.
 - Save changes to files
 - Basic GUI using Tkinter
 
-## File Structure
 
